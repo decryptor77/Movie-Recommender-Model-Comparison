@@ -171,5 +171,5 @@ The qualitative analysis shows clear differences between models:
 
 **Noor Nashef**  
 MSc in Data Science & Machine Learning, Reichman University  
-BSc Information Systems Engineer specialized in Machine Learning, Technion
+BSc Information Systems Engineering specialized in Machine Learning, Technion
 
