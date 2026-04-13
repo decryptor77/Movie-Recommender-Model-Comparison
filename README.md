@@ -170,6 +170,6 @@ The qualitative analysis shows clear differences between models:
 ## Author
 
 **Noor Nashef**  
-MSc Data Science & Machine Learning student, Reichman University
+MSc Data Science & Machine Learning student, Reichman University<br>
 BSc in Information Systems Engineering specialized in Machine Learning, Technion
 
